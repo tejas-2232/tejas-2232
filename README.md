@@ -6,10 +6,11 @@
 <hr>
   
   - 🌍  I'm based in Pune, India
-  - 🚀  I'm currently working on Ansible
+  - 🚀  Currently working on Ansible
   - 🌱 I’m currently learning Terraform & Docker
-  - 👯 I’m looking to collaborate on Documentation projects, Technical writing, open source projects
+  - 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
   - ⚡ I love plucking Guitar strings
+  - 📫 send your letters at **tejasbachhav98@gmail.com**
   
 
 <h3 align="left"> Languages and Tools</h3> 
