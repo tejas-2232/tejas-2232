@@ -15,8 +15,10 @@
 - 📫 send your letters at **tejasbachhav98@gmail.com**
 
 </div>
-  
-  <br>
+
+### Badges
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-2232&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-2232" /> </p>
+
 <h3 align="left"> Languages and Tools</h3> 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -43,9 +45,6 @@
   <a href="https://www.twitter.com/bachhav_tejas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   </p>
   
-  ### Badges
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-2232&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-2232" /> </p>
   
   <b>My GitHub Stats</b>
   
