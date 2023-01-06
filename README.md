@@ -9,7 +9,7 @@
   
 - 🌍  I'm based in Pune, India
 - 🚀  Currently working on Ansible
-- 🌱 I’m currently learning Terraform & Docker
+- 🌱 I’m currently learning Terraform & Bicep 
 - 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
 - ⚡ I love plucking Guitar strings
 - 📫 send your letters at **tejasbachhav98@gmail.com**
