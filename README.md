@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 My name is Tejas </h1>
+<h1 align="center"> Hey Friend 👋 My Name is Tejas </h1>
 
 
 <h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture
@@ -16,6 +16,10 @@
 
 </div>
 
+<hr>
+Free software is a matter of liberty, not price.<br>To understand the concept, you should think of 'free' as in 'free speech, not as in 'free beer'. <br> - Richard Stallman
+<hr>
+  
 ### Badges
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-2232&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-2232" /> </p>
 
@@ -53,6 +57,7 @@
   <a href="http://www.github.com/tejas-2232"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-2232&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <a href="http://www.github.com/tejas-2232"><img src="https://activity-graph.herokuapp.com/graph?username=tejas-2232&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   <a href="https://github.com/tejas-2232" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-2232&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
   
   ### Support Me
   
