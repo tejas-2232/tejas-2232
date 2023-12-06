@@ -1,15 +1,15 @@
 <h1 align="center"> Hi there 👋 My name is Tejas </h1>
 
 
-<h3 align="center"> Cloud Automation DevOps Engineer at Accenture
+<h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture
   
 <hr>
 
 <div align="left">
   
-- 🌍  I'm based in Pune, India
-- 🚀  Currently working on Ansible
-- 🌱 I’m currently learning Terraform & Bicep 
+- 🌍  I'm based in Binghamton, New York
+- 🚀  Currently working on Ansible and cyber security projects
+- 🌱 Learning again Java, C, Terraform 
 - 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
 - ⚡ I love plucking Guitar strings
 - 📫 send your letters at **tejasbachhav98@gmail.com**
