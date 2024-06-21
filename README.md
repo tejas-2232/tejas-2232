@@ -1,8 +1,9 @@
 <h1 align="center"> Hey Friend 👋 My Name is Tejas </h1>
 
 
-<h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture
-  
+<h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture </h3>
+<h4 align="center"> <a href="https://www.binghamton.edu/"> Master in Computer Science </a> <a href="https://www.binghamton.edu/computer-science/graduate-programs/mscs/index.html">@ Binghamton University  </a> </h4>  
+
 <hr>
 
 <div align="left">
