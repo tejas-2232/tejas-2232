@@ -1,5 +1,8 @@
-<h1 align="center"> Hey Friends,👋 My Name is Tejas </h1>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+Myself+Tejas+Bachhav!;+Nice+To+See+You+Here;&center=true&size=40">
+  </a>
+</h1>
 
 <h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture </h3>
 <h4 align="center"> <a href="https://www.binghamton.edu/"> Master in Computer Science </a> <a href="https://www.binghamton.edu/computer-science/graduate-programs/mscs/index.html">@ Binghamton University  </a> </h4>  
