@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Friend 👋 My Name is Tejas </h1>
+<h1 align="center"> Hey Friends,👋 My Name is Tejas </h1>
 
 
 <h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture </h3>
