@@ -130,17 +130,18 @@ Free software is a matter of liberty, not price. <br> To understand the concept,
   
   [![@tejas_2232's Holopin board](https://holopin.me/tejas_2232)](https://holopin.io/@tejas_2232)
   
-  <b>My GitHub Stats</b>
+### My GitHub Stats
   
   <a href="http://www.github.com/tejas-2232"><img src="https://github-readme-stats.vercel.app/api?username=tejas-2232&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tejas-2232's GitHub stats" /></a>
   
   <a href="http://www.github.com/tejas-2232"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-2232&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
-  <a href="http://www.github.com/tejas-2232"><img src="https://activity-graph.herokuapp.com/graph?username=tejas-2232&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    
+<h2> Github Commit's Graph </h2>
+
+[![Tejas's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejas-2232&theme=github-compact)](https://github.com/tejas-2232/github-readme-activity-graph)
   
   <a href="https://github.com/tejas-2232" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-2232&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### If you like my GitHub, I really appreciate your support
   
-  ### Support Me
-  
-  <a href="https://www.buymeacoffee.com/btejas007"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/btejas007"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
