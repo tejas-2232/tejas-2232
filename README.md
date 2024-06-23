@@ -12,9 +12,9 @@
 
 <div align="left">
   
-- 🌍  I'm based in Binghamton, New York
-- 🚀  Currently working on Ansible and cyber security projects
-- 🌱 Learning again Java, C, Terraform 
+- 🌍 I'm based in Binghamton, New York
+- 🚀 Currently working on Ansible and cyber security projects
+- 🌱 Learning Golang and Dynamic programming
 - 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
 - ⚡ I love plucking Guitar strings
 - 📫 send your letters at **tejasbachhav98@gmail.com**
