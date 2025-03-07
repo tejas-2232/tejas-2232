@@ -6,18 +6,18 @@
 </h1>
 
 <h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture </h3>
-<h4 align="center"> <a href="https://www.binghamton.edu/"> Master in Computer Science </a> <a href="https://www.binghamton.edu/computer-science/graduate-programs/mscs/index.html">@ Binghamton University  </a> </h4>  
+<h4 align="center"> <a href="https://www.binghamton.edu/computer-science/graduate-programs/mscs/index.html"> Master in Computer Science </a> <a href="https://www.binghamton.edu/">@ Binghamton University  </a> </h4>  
 
 <hr>
 
 <div align="left">
   
 - 🌍 I'm based in Binghamton, New York
-- 🚀 Currently working on Ansible and cyber security projects
+- 🚀 Currently looking for roles in Cloud DevOps, Platform, SRE
 - 🌱 Learning Golang and Dynamic programming
-- 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
+- 👯 Open for collaboration on projects
 - ⚡ I love plucking Guitar strings
-- 📫 send your letters at **tejasbachhav98@gmail.com**
+- 📫 send your letters to **tejasbachhav98@gmail.com**
 
 </div>
 
