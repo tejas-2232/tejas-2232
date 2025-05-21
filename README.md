@@ -5,8 +5,8 @@
   </a>
 </h1>
 
-<h3 align="center"> Looking for roles in Cloud / DevOps / SRE Engineer in USA (open for relocation) </h3>
-<h3 align="center"> Former Cloud Automation DevOps Engineer at Accenture </h3>
+<h3 align="center"> Looking for roles in Cloud / DevOps field in USA (open for relocation) </h3>
+<h3 align="center"> 3 Years of Experience - Cloud Automation DevOps Engineer at Accenture </h3>
 <h4 align="center"> <a href="https://www.binghamton.edu/computer-science/graduate-programs/mscs/index.html"> Master in Computer Science </a> <a href="https://www.binghamton.edu/">@ Binghamton University  </a> </h4>  
 
 <hr>
@@ -14,11 +14,11 @@
 <div align="left">
   
 - 🌍 I'm based in Binghamton, New York
-- 🚀 Currently looking for roles in Cloud DevOps, Platform, SRE
+- 🚀 Open to roles in Cloud DevOps, Platform, SRE
 - 🌱 Learning Golang and Dynamic programming
 - 👯 Open for collaboration on projects
-- ⚡ I love plucking Guitar strings
-- 📫 send your letters to **tejasbachhav98@gmail.com**
+- ⚡ I sometimes play Piano & Guitar
+- 📫 Feel free to contact me @ **tejasbachhav98@gmail.com**
 
 </div>
 
