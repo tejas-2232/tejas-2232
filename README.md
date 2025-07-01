@@ -13,7 +13,7 @@
 
 <div align="left">
   
-- 🌍 I'm based in New York
+- 🌍 I'm based in New
 - 🚀 Open to roles in Cloud, DevOps, Platform, SRE
 - 🌱 Learning to use AI Coding tools, Golang and some frameworks
 - 👯 Open for collaboration on projects
