@@ -13,9 +13,9 @@
 
 <div align="left">
   
-- 🌍 I'm based in New
+- 🌍 I'm based in New York
 - 🚀 Open to roles in Cloud, DevOps, Platform, SRE
-- 🌱 Learning to use AI Coding tools, Golang and some frameworks
+- 🌱 Learning to use AI Coding tools Cursor, Windsurf, AWS Kiro, Golang, etc
 - 👯 Open for collaboration on projects
 - ⚡ I sometimes play Piano & Guitar
 - 📫 Feel free to contact me @ **tejasbachhav98@gmail.com**
