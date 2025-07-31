@@ -27,10 +27,20 @@
 Free software is a matter of liberty, not price. <br> To understand the concept, you should think of 'free' as in 'free speech, not as in 'free beer'. <br> - Richard Stallman </h3>
 <hr>
 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-2232&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-2232" /> </p>
+
 ### Badges
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-2232&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-2232" /> </p>
+[All Badges of Credly here](https://www.credly.com/users/tejas-bachhav)
+
+[![Credly Badge](https://images.credly.com/images/d78ad673-037a-4197-92d4-7bbb703b22da/image.png)](https://www.credly.com/badges/893b8b18-0773-47a0-ad19-e95603d20df8/public_url)  
+![Migrating to AWS Immersion Day](https://images.credly.com/images/a4a94093-255f-4a93-b3b1-6b0ed16311e6/image.png)
+![LFC102](https://images.credly.com/size/680x680/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob)
+![Mckinsey Forward Program](https://images.credly.com/size/680x680/images/bad47198-deb5-48db-bbc3-85adb64db125/blob)
+![Leadership Essentials](https://images.credly.com/images/f014c10e-7d96-446b-bc5e-c9fc86c094ce/Leadership_Essentials_for_Engineers.png)
+![IBM Python for Data Science](https://images.credly.com/images/b40db465-587f-45eb-a854-af8630a630e7/blob)
+
+
 
 <h3 align="left"> Cloud, IaC, Hostings & Other tools</h3> 
 
