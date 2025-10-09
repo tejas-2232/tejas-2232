@@ -15,6 +15,7 @@
   
 - 🌍 I'm based in New York
 - 🚀 Open to roles in Cloud, DevOps, Platform, SRE
+- 🕸️ Portfolio is here [tejasbachhav.cloud](https://tejasbachhav.cloud/)
 - 🌱 Learning Agentic AI, Coding tools Cursor, Windsurf, Claude Code, AWS Kiro, Golang, etc
 - 👯 Open for collaboration on projects
 - ⚡ I sometimes play Piano & Guitar
