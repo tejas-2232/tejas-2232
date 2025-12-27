@@ -30,6 +30,10 @@ Free software is a matter of liberty, not price. <br> To understand the concept,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-2232&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-2232" /> </p>
 
+## Contribution graph eaten by the Snake
+
+![snake gif](https://github.com/tejas-2232/tejas-2232/blob/output/github-contribution-grid-snake.gif)
+
 ### Badges
 
 [All Badges of Credly here](https://www.credly.com/users/tejas-bachhav)
@@ -134,8 +138,6 @@ Free software is a matter of liberty, not price. <br> To understand the concept,
   <a href="https://www.stackoverflow.com/users/12519891/expertnerd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>                        
   <a href="https://www.twitter.com/bachhav_tejas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   </p>
-  
-  [![@tejas_2232's Holopin board](https://holopin.me/tejas_2232)](https://holopin.io/@tejas_2232)
   
 ### My GitHub Stats
   
