@@ -32,7 +32,7 @@ Free software is a matter of liberty, not price. <br> To understand the concept,
 
 ## Contribution graph eaten by the Snake
 
-![snake gif](https://github.com/tejas-2232/tejas-2232/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/tejas-2232/tejas-2232/blob/output/github-snake.svg)
 
 ### Badges
 
