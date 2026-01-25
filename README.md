@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center"> Looking for roles in Cloud / DevOps / SRE in USA (open for relocation) </h3>
+<h3 align="center"> Looking for roles in Cloud / DevOps / SRE (open for relocation) </h3>
 <h3 align="center"> Cloud DevOps Engineer at Accenture </h3>
 <h4 align="center"> <a href="https://www.binghamton.edu/computer-science/graduate-programs/mscs/index.html"> Master in Computer Science </a> <a href="https://www.binghamton.edu/">@ Binghamton University  </a> </h4>  
 
